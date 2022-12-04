@@ -18,7 +18,7 @@ There is no sound within the game
 
 There are several options to run the game without installation
 
-* Clone `bin` directory and run `FPS game.exe` file
+* Download one of the packages in the [Release](https://github.com/238SAMIxD/Zombie-Shooter/releases/tag/v1.0.0) section
 * Download `bin.7z` or `bin.zip` file from `bin (packed)` directory, unpack it and run `FPS game.exe` file
 
 ### Gameplay
